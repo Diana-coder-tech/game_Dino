@@ -1,2 +1,2 @@
 ## Dino game
-Welcome play!
+Welcome play! https://diana-coder-tech.github.io/game_Dino/
